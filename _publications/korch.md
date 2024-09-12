@@ -7,5 +7,5 @@ venue: "Proceedings of the 29th ACM International Conference on Architectural Su
 link: "https://dl.acm.org/doi/10.1145/3620666.3651383"
 paperurl: "https://arxiv.org/pdf/2406.09465"
 github: "https://github.com/humuyan/Korch"
-awards: "<img src='/images/acm-functional-v11.png' style='height: 50px' /> <img src='/images/acm-available-v11.png' style='height: 50px' /> <img src='/images/acm-reproduced-v11.png' style='height: 50px' />"
+awards: "<img src='/images/acm-available-v11.png' style='height: 50px' /> <img src='/images/acm-functional-v11.png' style='height: 50px' /> <img src='/images/acm-reproduced-v11.png' style='height: 50px' />"
 ---
