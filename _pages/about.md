@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/) in University of Illinois Urbana-Champaign, co-advised by [Prof. Charith Mendis](https://charithmendis.com/) and [Prof. Vikram Adve](https://vikram.cs.illinois.edu/). Previously, I obtained my Bachelor's degree from [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at Tsinghua University in 2023, advised by [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+I'm a PhD candidate at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/) in University of Illinois Urbana-Champaign, co-advised by [Prof. Charith Mendis](https://charithmendis.com/) and [Prof. Vikram Adve](https://vikram.cs.illinois.edu/). Currently, I'm also a High Performance AI Intern at NVIDIA, working with [Dr. Humphrey Shi](https://www.humphreyshi.com/). Previously, I obtained my Bachelor's degree from [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at Tsinghua University in 2023, advised by [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 
 I feel very fortunate to have worked with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) in [CMU Catalyst Group](https://catalyst.cs.cmu.edu/) and [Prof. Song Han](https://hanlab.mit.edu/songhan) in [MIT HAN Lab](https://hanlab.mit.edu/). During the summer of 2024 and 2025, I worked as a research intern in Microsoft Redmond, hosted by [Dr. Ofer Dekel](https://www.linkedin.com/in/ofer-dekel-2041291/) and [Dr. Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/).
 

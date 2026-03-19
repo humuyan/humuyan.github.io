@@ -7,6 +7,8 @@ author_profile: true
 
 ## VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination
 
++ [Catalyst Group](https://catalyst.cs.cmu.edu/), Carnegie Mellon University, Pittsburgh, USA, Mar 2026
++ [Stanford Software Research Lunch](https://software-research-lunch.github.io/), Stanford, USA, Feb 2026
 + [PyTorch Team](https://ai.meta.com/tools/pytorch/), Meta, Online, Dec 2025
 + [JUMP 2.0 PRISM](https://www.src.org/program/jump2/prism/) Annual Review, San Diego, USA, Nov 2025
 + [Jump Trading](https://www.jumptrading.com/) AI Research Symposium, New York, USA, Nov 2025
