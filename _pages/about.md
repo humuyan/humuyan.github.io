@@ -10,4 +10,4 @@ I'm a PhD candidate at [Siebel School of Computing and Data Science](https://sie
 
 I feel very fortunate to have worked with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) in [CMU Catalyst Group](https://catalyst.cs.cmu.edu/) and [Prof. Song Han](https://hanlab.mit.edu/songhan) in [MIT HAN Lab](https://hanlab.mit.edu/). During the summer of 2024 and 2025, I worked as a research intern in Microsoft Redmond, hosted by [Dr. Ofer Dekel](https://www.linkedin.com/in/ofer-dekel-2041291/) and [Dr. Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/).
 
-My research interests lie in the intersection of systems and AI, especially compiler and system support for efficient machine learning. Feel free to drop me an email if you are interested!
+My research interests lie in the intersection of systems and AI, especially ML compilers, high-performance kernels, and agentic workflows for efficient machine learning on modern hardware accelerators. Feel free to drop me an email if you are interested!

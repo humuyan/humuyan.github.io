@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <p style="line-height: 175%">
+    ML and Systems Rising Star<span style="float:right;">2026</span><br>
     1st Prize (5th Place), ASC 22-23 Student Cluster Competition<span style="float:right;">2023</span><br>
     SenseTime Scholarship<span style="float:right;">2022</span><br>
     CCF (China Computer Federation) Elite Collegiate Award<span style="float:right;">2022</span><br>
