@@ -7,6 +7,8 @@ author_profile: true
 
 ## VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination
 
++ [Compiler Seminar](https://compilerseminar.web.illinois.edu/archive.html), University of Illinois Urbana-Champaign, Urbana, USA, Oct 2026
++ [MLSys Rising Stars Workshop](https://mlcommons.org/2026/05/2026-rising-stars/), AMD, San Jose, USA, Jul 2026
 + [ACE Center](https://acecenter.grainger.illinois.edu/) Liaison Meeting, Online, Apr 2026
 + [Catalyst Group](https://catalyst.cs.cmu.edu/), Carnegie Mellon University, Pittsburgh, USA, Mar 2026
 + [Stanford Software Research Lunch](https://software-research-lunch.github.io/), Stanford, USA, Feb 2026
